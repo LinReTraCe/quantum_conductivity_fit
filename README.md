@@ -1,6 +1,9 @@
 ## Quantum conductivity fit
-Quantum conductivity fit procedure found in 'Resistivity saturation in Kondo insulators':
-[arXiv:2008.05846](https://arxiv.org/pdf/2008.05846.pdf)
+Quantum conductivity fit procedure used and described in Pickem et al.'s 
+'Resistivity saturation in Kondo insulators',
+[Commun. Phys. 4, 226 (2021)](https://www.nature.com/articles/s42005-021-00723-z).
+The fit allows extracting the size of the gap ![equation](https://latex.codecogs.com/gif.latex?\Delta)
+and the scattering rate ![equation](https://latex.codecogs.com/gif.latex?\Gamma) from the low-temperature behavior of an experimental conductivity of a semiconductor or insulator.
 
 ## Script
 `quantum_conductivity_fit.py` is a user script to fit experimental data with the two-level (2L)
